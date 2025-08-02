@@ -21,7 +21,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/username/smart-connect.git
+git clone https://github.com/nandunelapatla/smart-connect.git
 cd smart-connect
 Install Flask:
 
